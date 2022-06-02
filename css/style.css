@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&family=Signika+Negative:wght@300&family=Tiro+Gurmukhi&display=swap');
+body{
+    background-color: #E6E6E6;
+}
+
+h1, h2{
+    background-color: #C4C4C4;
+    color: #005677;
+}
+span{
+    font-weight: 700;
+}
+main{
+    font-family: font-family: 'Signika Negative', sans-serif;;
+}
+footer{
+    background-color: #005677;
+
+}
+header, footer{
+    text-align: center;
+}
+
+i{
+    color: antiquewhite;
+}
+
+
